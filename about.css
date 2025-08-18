@@ -46,7 +46,7 @@ nav {
 }
 
 .nav-links a {
-    text-decoration: none;
+  text-decoration: none;
   color: #fff;
   font-weight: bold;
   padding: 5px 0;
@@ -58,13 +58,16 @@ nav {
 }
 
 .about-section {
-    margin-top: 20px;
+  padding: 40px 0px 40px 0px;
+    margin-top: 100px;
     text-align: center;
-  background-color: #e9ecef;
+    font-size: 30px;
+  background-color: #dee1e4;
 }
 
 .about-section p {
   max-width: 800px;
   margin: 0 auto;
   font-size: 1.1rem;
+  font-size: 20px;
 }
